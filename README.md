@@ -3,6 +3,9 @@
 Beautiful Tabbar Interaction with Sliding Inset FABs,
 made with React Native.
 
+# Demo
+https://ibb.co/tB0mpk8
+
 # Installation
 `npm i DineshRajput21/AnimatedTabBar`
 
