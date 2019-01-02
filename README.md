@@ -5,6 +5,9 @@ made with React Native.
 
 # Installation
 `npm i DineshRajput21/AnimatedTabBar`
+
+           OR
+           
 `yarn add DineshRajput21/AnimatedTabBar`
 
 After that you need to install React Native SVG using commands and link :
