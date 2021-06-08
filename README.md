@@ -1,3 +1,7 @@
+
+
+![Screen-Shot-1940-10-12-at-6-39-58-PM](https://user-images.githubusercontent.com/6690041/121230240-a39f7a80-c8ac-11eb-9643-1f5704b22cf8.png)
+
 # AnimatedTabBar Interaction
 
 Beautiful Tabbar Interaction with Sliding Inset FABs,
